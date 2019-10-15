@@ -3,12 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://buraglio.com/post/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://buraglio.com/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

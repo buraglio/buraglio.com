@@ -10,14 +10,5 @@
 	<atom:link href="https://buraglio.com/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title></title>
-      <link>https://buraglio.com/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://buraglio.com/post/</guid>
-      <description>Common services Webmail Calendar gDrive</description>
-    </item>
-    
   </channel>
 </rss>

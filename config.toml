@@ -40,6 +40,6 @@ theme = "hugo-theme-bootie-docs"
 #    name = "post"
 #    url = "/post"
 
-[permalinks]
-  posts = "/:year/:month/:title/"
+#[permalinks]
+#  posts = "/:year/:month/:title/"
 
