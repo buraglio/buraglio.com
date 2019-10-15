@@ -5,7 +5,7 @@ theme = "hugo-theme-lean-launch-page"
 #disqusShortname = "nickburaglio"
 
 [Params]
-    mainSections = ["front"]
+    mainSections = ["post"]
     intro = true
     headline = "www.buraglio.com"
     description = "Random junk that updates infrequently"
@@ -35,10 +35,10 @@ theme = "hugo-theme-lean-launch-page"
 #    name = "about"
 #    url = "/about"
 
-#  [[menu.main]]
-#    identifier = "post"
-#    name = "post"
-#    url = "/post"
+  [[menu.main]]
+    identifier = "post"
+    name = "post"
+    url = "/post"
 
 [permalinks]
   posts = "/:year/:month/:title/"
