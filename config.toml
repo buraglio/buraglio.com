@@ -6,7 +6,7 @@ theme = "hugo-theme-bootie-docs"
 
 [Params]
 #    mainSections = ["post"]
-    intro = true
+    intro = false
     headline = "www.buraglio.com"
     description = "Random junk that updates infrequently"
     github = "https://github.com/buraglio"
@@ -28,7 +28,7 @@ theme = "hugo-theme-bootie-docs"
     readingTime = true
     readingTimeText = "Estimated reading time:"
 
-#[menu]
+[menu]
 
 #  [[menu.main]]
 #    identifier = "about"
