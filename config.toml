@@ -35,10 +35,10 @@ theme = "hugo-theme-bootie-docs"
 #    name = "about"
 #    url = "/about"
 
-#  [[menu.main]]
-#    identifier = "post"
-#    name = "post"
-#    url = "/post"
+  [[menu.main]]
+    identifier = "links"
+    name = "links"
+    url = "/links"
 
 #[permalinks]
 #  posts = "/:year/:month/:title/"
