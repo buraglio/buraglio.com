@@ -5,7 +5,7 @@ theme = "hugo-theme-lean-launch-page"
 #disqusShortname = "nickburaglio"
 
 [Params]
-    mainSections = ["/"]
+    mainSections = ["front"]
     intro = true
     headline = "www.buraglio.com"
     description = "Random junk that updates infrequently"
