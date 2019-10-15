@@ -5,7 +5,7 @@ theme = "hugo-theme-lean-launch-page"
 #disqusShortname = "nickburaglio"
 
 [Params]
-    mainSections = ["post"]
+    mainSections = ["/"]
     intro = true
     headline = "www.buraglio.com"
     description = "Random junk that updates infrequently"
@@ -27,12 +27,13 @@ theme = "hugo-theme-lean-launch-page"
     exponeaTrackVisits = false
     readingTime = true
     readingTimeText = "Estimated reading time:"
-[menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    url = "/about"
+#[menu]
+
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "about"
+#    url = "/about"
 
 #  [[menu.main]]
 #    identifier = "post"
