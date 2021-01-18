@@ -1,4 +1,4 @@
-baseURL: http://buraglio.com/
+baseURL: https://buraglio.com/
 languageCode: en-us
 title: buraglio.com
 theme: freshstart
@@ -20,10 +20,10 @@ params:
       url: https://www.duckduckgo.com
 
 
-  nav:
-    - name: Gmail
-      icon: fas fa-envelope red
-      url: https://mail.google.com
+  #nav:
+  #  - name: email
+  #    icon: fas fa-envelope red
+  #    url: https://mail.google.com
 
     - name: Twitter
       icon: fab fa-twitter aqua
@@ -34,34 +34,14 @@ params:
     - group: dev
       icon: fas fa-code-branch
       items:
-        - name: cloudflare
-          url: https://cloudflare.com
-        - name: codepen.io
-          url: https://codepen.io
+        - name: webmail
+          url: https://webmail.buraglio.com
+        - name: calendar
+          url: https://calendar.buraglio.com
         - name: github
           icon: fab fa-github
           url: https://github.com
         - name: gitlab
           icon: fab fa-gitlab
           url: https://gitlab.com
-
-    - group: docs
-      icon: fas fa-folder-open
-      items:
-        - name: docker
-          url: https://docs.docker.com/
-
-        - name: puppet
-          url: https://puppet.com/docs/puppet/latest/
-
-        - name: terraform
-          url: https://www.terraform.io/docs/
-    
-    - group: tools
-      icon: fas fa-tools
-      items:
-        - name: some site
-          url: #
-        - name: another site
-          url: #
 
