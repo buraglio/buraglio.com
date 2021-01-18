@@ -47,7 +47,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Buraglio.com"
-    subtitle = "Random crap that updates infrequently
+    subtitle = "Random crap that updates infrequently"
     owner = ""
     keywords = ""
     copyright = ""
