@@ -1,7 +1,7 @@
 baseURL: http://buraglio.com/
 languageCode: en-us
 title: buraglio.com
-theme: freshStart
+theme: freshstart
 
 params:
   author: Nick Buraglio
