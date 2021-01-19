@@ -33,14 +33,17 @@ params:
     - group: links
       icon: fas fa-code-branch
       items:
-        - name: webmail
+        - name: Webmail
           url: https://mail.google.com/
-        - name: calendar
+        - name: Calendar
           url: https://calendar.google.com
-        - name: drive
+        - name: Drive
           #icon: fab fa-github
           url: https://drive.google.com
-        #- name: gitlab
+        - name: photos
         #  icon: fab fa-gitlab
-        #  url: https://gitlab.com
+          url: https://pictures.google.com
+        - name: news
+        #  icon: fab fa-gitlab
+          url: https://news.google.com
 
