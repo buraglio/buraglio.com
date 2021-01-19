@@ -20,7 +20,7 @@ params:
       url: https://www.duckduckgo.com
 
 
-  #nav:
+   nav:
   #  - name: email
   #    icon: fas fa-envelope red
   #    url: https://mail.google.com
@@ -31,17 +31,17 @@ params:
     
 
   bookmarks:
-    - group: dev
+    - group: links
       icon: fas fa-code-branch
       items:
         - name: webmail
-          url: https://webmail.buraglio.com
+          url: https://mail.google.com/
         - name: calendar
-          url: https://calendar.buraglio.com
-        - name: github
-          icon: fab fa-github
-          url: https://github.com
-        - name: gitlab
-          icon: fab fa-gitlab
-          url: https://gitlab.com
+          url: https://calendar.google.com
+        - name: drive
+          #icon: fab fa-github
+          url: https://drive.google.com
+        #- name: gitlab
+        #  icon: fab fa-gitlab
+        #  url: https://gitlab.com
 
