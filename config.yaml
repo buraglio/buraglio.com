@@ -19,8 +19,7 @@ params:
       icon: fas fa-search
       url: https://www.duckduckgo.com
 
-
-   nav:
+  nav:
   #  - name: email
   #    icon: fas fa-envelope red
   #    url: https://mail.google.com
