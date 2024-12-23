@@ -28,16 +28,18 @@ params:
   #    icon: fas fa-envelope red
   #    url: https://mail.google.com
 
-    - name: Bluesky
+#    - name: Bluesky
      #  icon: fab fa-twitter aqua
-      url: https://bsky.app/profile/forwardingplane.net
-    - name: Mastodon
+#      url: https://bsky.app/profile/forwardingplane.net
+  #  - name: Mastodon
      #  icon: fab fa-twitter aqua
-      url: https://dial.modem.show/@forwardingplane@dial.modem.show
-    - name: TeePublic Store
-      url: https://www.teepublic.com/user/cinematic-omelete-studios
-    - name: Technical Blog
-      url: https://www.forwardingplane.net
+ #     url: https://dial.modem.show/@forwardingplane@dial.modem.show
+   # - name: TeePublic Store
+    #  icon: fab fa-twitter aqua
+    #  url: https://www.teepublic.com/user/cinematic-omelete-studios
+    #- name: Technical Blog
+    #  icon: fab fa-twitter aqua
+    #  url: https://www.forwardingplane.net
 
   bookmarks:
     - group: links
@@ -59,3 +61,15 @@ params:
         - name: GitHub
           icon: fab fa-github
           url: https://github.com/buraglio
+        - name: Bluesky
+          #  icon: fab fa-twitter aqua
+          url: https://bsky.app/profile/forwardingplane.net
+        - name: Mastodon
+          #  icon: fab fa-twitter aqua
+          url: https://dial.modem.show/@forwardingplane@dial.modem.show
+        - name: TeePublic Store
+          #  icon: fab fa-twitter aqua
+          url: https://www.teepublic.com/user/cinematic-omelete-studios
+        - name: Technical Blog
+          #  icon: fab fa-twitter aqua
+          url: https://www.forwardingplane.net
