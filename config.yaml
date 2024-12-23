@@ -18,16 +18,26 @@ params:
       activated: true
       icon: fas fa-search
       url: https://www.duckduckgo.com
+    - name: Bing
+      activated: true
+      icon: fas fa-search
+      url: https://www.bing.com
 
   nav:
   #  - name: email
   #    icon: fas fa-envelope red
   #    url: https://mail.google.com
 
-    - name: Twitter
-      icon: fab fa-twitter aqua
-      url: https://twitter.com/forwardingplane
-    
+    - name: Bluesky
+     #  icon: fab fa-twitter aqua
+      url: https://bsky.app/profile/forwardingplane.net
+    - name: Mastodon
+     #  icon: fab fa-twitter aqua
+      url: https://dial.modem.show/@forwardingplane@dial.modem.show
+    - name: TeePublic Store
+      url: https://www.teepublic.com/user/cinematic-omelete-studios
+    - name: Technical Blog
+      url: https://www.forwardingplane.net
 
   bookmarks:
     - group: links
@@ -46,4 +56,6 @@ params:
         - name: news
         #  icon: fab fa-gitlab
           url: https://news.google.com
-
+        - name: GitHub
+          icon: fab fa-github
+          url: https://github.com/buraglio
